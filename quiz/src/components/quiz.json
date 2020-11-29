@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "id":2,
+        "question": "Which is the pet animal?",
+        "optionA": "Dog",
+        "optionB": "Tiger",
+        "optionC": "Leopard",
+        "optionD": "Lion",
+        "answer": "Dog"
+    },
+    {
+        "id": 3,
+        "question": "Which is the largest astero ?",
+        "optionA": "Ceres",
+        "optionB": "4 Vesta",
+        "optionC": "Bennu",
+        "optionD": "2 Pallas",
+        "answer":"Ceres"
+    },
+    {
+        "id": 4,
+        "question": "OS in computer field is known as?",
+        "optionA": "Operating System",
+        "optionB": "Operation System",
+        "optionC": "Operating Science",
+        "optionD": "Operation Science",
+        "answer": "Operating System"
+    },
+    {
+        "id":5,
+        "question":"Complete the formula: Speed = _____ / Time",
+        "optionA": "Mass",
+        "optionB": "Direction",
+        "optionC": "Distance",
+        "optionD": "Temprature",
+        "answer": "Distance"
+    }
+]
